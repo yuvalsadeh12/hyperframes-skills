@@ -1,0 +1,14 @@
+{
+  "name": "hyperframes-skills",
+  "owner": { "name": "HeyGen (mirrored)", "url": "https://hyperframes.heygen.com" },
+  "plugins": [
+    {
+      "name": "hyperframes",
+      "source": "./",
+      "description": "All HyperFrames skills, mirrored daily from heygen-com/hyperframes so claude.ai can sync them.",
+      "homepage": "https://hyperframes.heygen.com",
+      "license": "Apache-2.0"
+    }
+  ],
+  "description": "Skills-only mirror of the HyperFrames plugin."
+}
