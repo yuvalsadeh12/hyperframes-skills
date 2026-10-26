@@ -1,7 +1,7 @@
 {
   "name": "hyperframes",
   "description": "HyperFrames by HeyGen (skills-only mirror, synced daily from heygen-com/hyperframes). Write HTML, render video.",
-  "version": "0.8.196",
+  "version": "0.8.202",
   "author": {
     "name": "HeyGen",
     "url": "https://hyperframes.heygen.com"
